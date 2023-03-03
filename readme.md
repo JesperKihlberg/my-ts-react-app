@@ -1,4 +1,5 @@
-# react-hello-world
+# my-ts-react-app
+
 
 This is a starter web application using React, TypeScript and Parcel.js.You can find the blog post here: [Getting started with React and TypeScript](http://blog.jesperkihlberg.dk/index.php/2023/03/02/getting-started-with-react-and-typescript/).
 
